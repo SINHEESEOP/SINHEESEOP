@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 
 
-<!--
-**SINHEESEOP/SINHEESEOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+[![Tech Blog](https://img.shields.io/badge/Blog-Tech%20Blog-blue)](https://your-tech-blog-link.com)
+![Follow](https://img.shields.io/github/followers/your-github-username?style=social)
 
-Here are some ideas to get you started:
+Welcome to my Github! I like **Linux** 🐧 and **FOSS** 💡, and I'm exploring **Cloud Tech** ☁️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+🔹 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+🔹 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+🔹 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+🔹 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+📌 **Check out my repos** ⬇  
