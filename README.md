@@ -3,7 +3,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SINHEESEOP&color=brightgreen)  
 [![Follow](https://img.shields.io/github/followers/SINHEESEOP?style=social)](https://github.com/SINHEESEOP)  
 
----
 
 ### **👨‍💻 About Me**
 배우는 것이 중요하고 좋다고 생각하는 사람이며,  
@@ -17,12 +16,5 @@
 
 🔹 **개인 블로그 & 포트폴리오**: **📌 추후 올릴 예정**  
 
----
-
-### **📌 GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SINHEESEOP&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SINHEESEOP&layout=compact&theme=tokyonight)  
-
----
 
 🚀 **항상 배우고 성장하는 개발자가 되겠습니다!**  
