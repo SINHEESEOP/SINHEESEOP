@@ -1,6 +1,10 @@
-Hi there! 👋  
-![Profile Views](https://komarev.com/ghpvc/?username=SINHEESEOP&color=brightgreen)  
+# Hi there! 👋  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SINHEESEOP&count_bg=%2333CC33&title_bg=%23222222&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/SINHEESEOP)  
+[![Tech Blog](https://img.shields.io/badge/GitHub-Tech%20Blog-black?logo=github)](https://your-tech-blog-link.com)  
 [![Follow](https://img.shields.io/github/followers/SINHEESEOP?style=social)](https://github.com/SINHEESEOP)  
+
+---
 
 ### **👨‍💻 About Me**
 배우는 것이 중요하고 좋다고 생각하는 사람이며,  
