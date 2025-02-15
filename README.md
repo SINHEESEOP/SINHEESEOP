@@ -25,11 +25,4 @@
 
 ---
 
----
-
-### **🐍 GitHub Snake Animation**
-![GitHub Snake Animation](https://github.com/SINHEESEOP/SINHEESEOP/blob/output/github-snake.svg)  
-
----
-
 🚀 **항상 배우고 성장하는 개발자가 되겠습니다!**  
