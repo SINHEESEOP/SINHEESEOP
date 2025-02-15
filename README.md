@@ -1,5 +1,4 @@
-# Hi there! 👋  
-
+Hi there! 👋  
 ![Profile Views](https://komarev.com/ghpvc/?username=SINHEESEOP&color=brightgreen)  
 [![Follow](https://img.shields.io/github/followers/SINHEESEOP?style=social)](https://github.com/SINHEESEOP)  
 
