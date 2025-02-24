@@ -15,7 +15,8 @@
 ### **👨‍💻 About Me**
 저는 배우는 것을 중요하게 생각하며, 개발자라는 직업이 저를 지속적으로 성장하게 만든다는 점을 좋아합니다.
 
-과거에는 'Eggt4rt'와 'ByuLSeoP'라는 닉네임으로 배틀그라운드 프로게이머로 활동했습니다. 특히, OGN이 주최한 HOT6 PSS Beta 대회에서 솔로 모드 결승에 진출하여 준우승을 차지한 바 있습니다. 또한, 'ByuLSeoP'라는 닉네임으로 Estats Esports 팀에서 활동하며 PUBG Korea League(PKL) 1부 리그에 참가했습니다.
+과거에는 'Eggt4rt'와 'ByuLSeoP'라는 닉네임으로 배틀그라운드 프로게이머로 활동했습니다. <br>
+특히, OGN이 주최한 HOT6 PSS Beta 대회에서 솔로 모드 결승에 진출하여 준우승을 차지한 바 있습니다. 또한, 'ByuLSeoP'라는 닉네임으로 Estats Esports 팀에서 활동하며 PUBG Korea League(PKL) 1부 리그에 참가했습니다.
 
 ### **🚀 Tech Stack & Interests**
 <p align="left">
