@@ -23,7 +23,7 @@
 - 🎯 **Estats Esports** 소속으로 **PUBG Korea League(PKL) 1부 리그**에 참가하며 프로 무대에서 활약했습니다.  
 
 🔗 **프로게이머 활동 관련 링크:**  
-👉 [기사 링크 1](https://search.naver.com/search.naver?where=nexearch&sm=top_hty&fbm=0&ie=utf8&query=eggt4rt)
+👉 [기사 링크 1](https://search.naver.com/search.naver?ssc=tab.news.all&where=news&sm=tab_jum&query=eggt4rt)
 👉 [나무 위키 2](https://namu.wiki/w/Guters) 
 👉 [Estats Esports 소속 당시 정보](https://namu.wiki/w/E-STATS%20Esports/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C)  
 
