@@ -4,7 +4,7 @@
   <a href="https://github.com/SINHEESEOP">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSINHEESEOP&count_bg=%2333CC33&title_bg=%23222222&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
   </a>
-  <a href="https://your-tech-blog-link.com">
+  <a href="https://byulseop-til.gitbook.io/sinheeseop_til">
     <img src="https://img.shields.io/badge/GitHub-Tech%20Blog-black?logo=github"/>
   </a>
   <a href="https://github.com/SINHEESEOP">
