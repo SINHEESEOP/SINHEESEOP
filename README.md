@@ -36,7 +36,6 @@
 ### **🚀 Tech Stack & Interests**  
 <p align="left">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=artstation&logoColor=white"/>
 </p>
 
