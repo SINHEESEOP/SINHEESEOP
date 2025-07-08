@@ -14,6 +14,23 @@
 
 --- 
 
+### **🚀 Tech Stack & Interests**  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=artstation&logoColor=white"/>
+</p>
+
+- 📌 주로 **Java**, **AI 관련 기술**에 관심을 가지고 있습니다.  
+- 💡 개발을 통한 문제 해결과 기술적 성장에 기쁨을 느낍니다.  
+- 🔍 기본기가 중요하다고 생각하며, CS 지식에 관심을 갖고 학습 중입니다.  
+
+---
+
+### 🌱 지금도 꾸준히 배우고 있습니다!
+
+> **"몰입과 집요함으로 성장하는 개발자"**  
+> 어제보다 더 나은 오늘의 나를 만드는 것이 목표입니다.  
+
 ### **👨‍💻 About Me**  
 배움을 중요하게 생각하며, 개발을 통해 끊임없이 성장하는 것을 즐깁니다.  
 최근에는 **크래프톤 정글(Krafton Jungle)** 부트캠프를 수료하고,  
@@ -32,20 +49,3 @@
 👉 [Estats Esports 관련 정보](https://namu.wiki/w/E-STATS%20Esports/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C)
 
 ---
-
-### **🚀 Tech Stack & Interests**  
-<p align="left">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=artstation&logoColor=white"/>
-</p>
-
-- 📌 주로 **Java**, **AI 관련 기술**에 관심을 가지고 있습니다.  
-- 💡 개발을 통한 문제 해결과 기술적 성장에 기쁨을 느낍니다.  
-- 🔍 기본기가 중요하다고 생각하며, CS 지식에 관심을 갖고 학습 중입니다.  
-
----
-
-### 🌱 지금도 꾸준히 배우고 있습니다!
-
-> **"몰입과 집요함으로 성장하는 개발자"**  
-> 어제보다 더 나은 오늘의 나를 만드는 것이 목표입니다.  
