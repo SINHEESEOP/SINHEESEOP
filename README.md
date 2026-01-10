@@ -38,14 +38,3 @@
 
 📚 혼자서 공부하는 것을 두려워하지 않으며, 끊임없는 학습과 도전 속에서 **개발자로서의 정체성을 쌓아가고** 있습니다.  
 게임에서 얻은 **집중력, 전략적 사고, 몰입력**을 소프트웨어 개발에 녹여내고 있습니다.  
-
-🎮 과거에는 **'Eggt4rt'** 와 **'ByuLSeoP'** 라는 닉네임으로 **배틀그라운드 프로게이머**로 활동한 이력이 있습니다.  
-- 🏆 **HOT6 PSS Beta** 대회 **솔로 모드 준우승**  
-- 🏆 **Estats Esports** 소속으로 **PKL(1부 리그)** 참가  
-
-🔗 **프로게이머 활동 관련 링크:**  
-👉 [기사 링크 1](https://search.naver.com/search.naver?ssc=tab.news.all&where=news&sm=tab_jum&query=eggt4rt)  
-👉 [나무 위키 2](https://namu.wiki/w/Guters)  
-👉 [Estats Esports 관련 정보](https://namu.wiki/w/E-STATS%20Esports/%EB%B0%B0%ED%8B%80%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C)
-
----
