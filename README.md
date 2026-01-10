@@ -1,5 +1,3 @@
-### Hi there! 👋             
-          
 <p align="left">             
 <!--   <a href="https://github.com/SINHEESEOP">   
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSINHEESEOP&count_bg=%2333CC33&title_bg=%23222222&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/>
@@ -14,15 +12,15 @@
 
 --- 
 
-### **🚀 Tech Stack & Interests**  
+### Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AI-FF6F00?style=flat&logo=artstation&logoColor=white"/>
 </p>
 
-- 📌 주로 **Java**, **AI 관련 기술**에 관심을 가지고 있습니다.  
-- 💡 개발을 통한 문제 해결과 기술적 성장에 기쁨을 느낍니다.  
-- 🔍 기본기가 중요하다고 생각하며, CS 지식에 관심을 갖고 학습 중입니다.  
+- 주로 **Java**, **AI 관련 기술**에 관심을 가지고 있습니다.  
+- 개발을 통한 문제 해결과 기술적 성장에 기쁨을 느낍니다.  
+- 기본기가 중요하다고 생각하며, CS 지식에 관심을 갖고 학습 중입니다.  
 
 ---
 
@@ -35,6 +33,3 @@
 배움을 중요하게 생각하며, 개발을 통해 끊임없이 성장하는 것을 즐깁니다.  
 최근에는 **크래프톤 정글(Krafton Jungle)** 부트캠프를 수료하고,  
 **인터넷 강의, 스터디, 팀 프로젝트** 등을 병행하며 실무 역량을 키워가고 있습니다.  
-
-📚 혼자서 공부하는 것을 두려워하지 않으며, 끊임없는 학습과 도전 속에서 **개발자로서의 정체성을 쌓아가고** 있습니다.  
-게임에서 얻은 **집중력, 전략적 사고, 몰입력**을 소프트웨어 개발에 녹여내고 있습니다.  
